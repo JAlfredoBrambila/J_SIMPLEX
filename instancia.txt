@@ -1,0 +1,8 @@
+nvars: 2
+nrest: 3
+objetivo: MAX
+z: 3 + 1
+restricciones
+2 + 1 <= 50
+1 + 0 <= 20
+0 + 1 >= 30
